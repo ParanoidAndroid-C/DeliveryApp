@@ -1,0 +1,7 @@
+Jeff,3.4,12
+Annie,4.5,12
+Britta,3.4,21
+Abed,3.3,14
+Troy,3.1,15
+Pierce,3.2,20
+Shirley,3.7,17
